@@ -5,7 +5,7 @@ Buscando entender mais como isso poderia impactar meu entorno, comecei a estudar
 
 Esse repositóro, contém materiais do que eu tenho aprendido e projetos que estão em andamento com amigos.
 
-Se tiver qualquer dúvida ou sugestão, por favor, entre em contato. 😄
+Se tiver qualquer dúvida ou sugestão, por favor, entre em [contato](https://www.linkedin.com/in/gustavosuto/). 😄
 
 <!--
 **guyrux/guyrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
