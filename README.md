@@ -1,6 +1,7 @@
 ### Olá, eu sou o Gustavo 👋
 
-Sou engenheiro metalúrgico com experiência na indústria de base e que hoje trabalha na indústria financeira. No meio do meu mestrado [dissertação](https://teses.usp.br/teses/disponiveis/3/3133/tde-24092018-111903/en.php)/[apresentação](https://speakerdeck.com/gustavosuto/efeito-do-resfriamento-no-teor-de-oxigenio-na-soldagem-com-eletrodo-revestido-e7018-utilizando-experimentos-fatoriais-dissertacao-de-mestrado), por volta de 2016, percebi que o ferramental estatístico que estávamos usando para melhoria de processo na indústria ou nos planejamentos experimentais na academia estavam ganhando importância no mercado e um nome novo: ciência de dados. Buscando entender mais como isso poderia impactar meu entorno, comecei a estudar Python.
+Sou engenheiro metalúrgico com experiência na indústria de base e que hoje trabalha na indústria financeira. No meio do meu mestrado (links para [dissertação](https://teses.usp.br/teses/disponiveis/3/3133/tde-24092018-111903/en.php)/[apresentação](https://speakerdeck.com/gustavosuto/efeito-do-resfriamento-no-teor-de-oxigenio-na-soldagem-com-eletrodo-revestido-e7018-utilizando-experimentos-fatoriais-dissertacao-de-mestrado)), por volta de 2016, percebi que o ferramental estatístico que usamos para melhoria de processos na indústria nos planejamentos experimentais na academia estavam ganhando importância no mercado e um nome novo: ciência de dados.
+Buscando entender mais como isso poderia impactar meu entorno, comecei a estudar programação com foco em ciência de dados e machine learning.
 
 Esse repositóro, contém materiais do que eu tenho aprendido e projetos que estão em andamento com amigos.
 
