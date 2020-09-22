@@ -1,5 +1,10 @@
 ### Olá, eu sou o Gustavo 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosuto/)](https://www.linkedin.com/in/gustavosuto/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guyrux@gmail.com)](mailto:guyrux@gmail.com)
+
+### Hellooo! 👋 Welcome to my pro
+
 Sou engenheiro metalúrgico com experiência na indústria de base e que hoje trabalha na indústria financeira. No meio do meu mestrado (links para [dissertação](https://teses.usp.br/teses/disponiveis/3/3133/tde-24092018-111903/en.php)/[apresentação](https://speakerdeck.com/gustavosuto/efeito-do-resfriamento-no-teor-de-oxigenio-na-soldagem-com-eletrodo-revestido-e7018-utilizando-experimentos-fatoriais-dissertacao-de-mestrado)), por volta de 2016, percebi que o ferramental estatístico que usamos para melhoria de processos na indústria nos planejamentos experimentais na academia estavam ganhando importância no mercado e um nome novo: ciência de dados.
 Buscando entender mais como isso poderia impactar meu entorno, comecei a estudar programação com foco em ciência de dados e machine learning.
 
