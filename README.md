@@ -10,7 +10,7 @@ Se tiver qualquer dúvida ou sugestão, por favor, entre em [contato](https://ww
 -----------------------
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosuto/)](https://www.linkedin.com/in/gustavosuto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guyrux@gmail.com)](mailto:guyrux@gmail.com)
-[![Gustavo Suto's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg =30x)](https://dev.to/guyrux)
+[![Gustavo Suto's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)=30x](https://dev.to/guyrux)
 
 <!--
 **guyrux/guyrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
