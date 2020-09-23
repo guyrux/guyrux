@@ -11,7 +11,7 @@ Se tiver qualquer dúvida ou sugestão, por favor, entre em [contato](https://ww
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosuto/)](https://www.linkedin.com/in/gustavosuto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guyrux@gmail.com)](mailto:guyrux@gmail.com)
 <a href="https://dev.to/guyrux">
-  <i class="fab fa-dev" title="guyrux's DEV Profile"></i>
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gustavo Suto's DEV Profile" height="30" width="30">
 </a>
 
 <!--
