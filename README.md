@@ -9,9 +9,9 @@ Se você tiver dúvidas ou sugestões, entre em contato com [contato] (https://w
 
 ---
 
-[ENGLISH VERSION]
+*[ENGLISH VERSION]*
 
-Hi, I'm Gustavo 👋
+### Hi, I'm Gustavo 👋
 
 I am a metallurgical engineer with experience in the industry and nowadays I works in the financial industry, specifically in a data science team. In the middle of my master's degree (links to [dissertation] (https://tese.usp.br/tese/disponiveis/3/3133/tde-24092018-111903/en.php) / [presentation] (https: // speakerdeck .com / gustavosuto / cooling-effect-on-the-oxygen-content-in-welding-with-coated-electrode-e7018-using-factorial-experiments-master-dissertation)), around 2016, I realized that the statistical tools we use to improve processes in the industry or at the academy were gaining importance in the market and a new name: data science.
 Seeking to understand more how it could impact my surroundings, I started studying programming with a focus on data science and machine learning (Python \o/)
