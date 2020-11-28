@@ -1,7 +1,7 @@
 ### Olá, sou o Gustavo 👋
 
 Sou engenheiro metalúrgico com experiência na indústria e atualmente trabalho na área financeira, especificamente em uma equipe de data science. No meio do meu mestrado (links para [dissertação](https://teses.usp.br/teses/disponiveis/3/3133/tde-24092018-111903/en.php)/[apresentação](https://speakerdeck.com/gustavosuto/efeito-do-resfriamento-no-teor-de-oxigenio-na-soldagem-com-eletrodo-revestido-e7018-utilizando-experimentos-fatoriais-dissertacao-de-mestrado)), por volta de 2016, percebi que o as ferramentas estatísticas que utilizamos para melhorar processos na indústria ou na academia foram ganhando importância no mercado e um novo nome: data science.
-Buscando entender mais como isso poderia impactar meu entorno, comecei a estudar programação com foco em ciência de dados e aprendizado de máquina (Python \ o /)
+Buscando entender mais como isso poderia impactar meu entorno, comecei a estudar programação com foco em ciência de dados e aprendizado de máquina (Python \o/)
 
 Este repositório contém materiais do que aprendi e projetos com meus grandes amigos. 😄
 
