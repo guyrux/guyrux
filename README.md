@@ -1,13 +1,27 @@
-### Olá, eu sou o Gustavo 👋
+### Olá, sou o Gustavo 👋
 
-Sou engenheiro metalúrgico com experiência na indústria de base e que hoje trabalha na indústria financeira. No meio do meu mestrado (links para [dissertação](https://teses.usp.br/teses/disponiveis/3/3133/tde-24092018-111903/en.php)/[apresentação](https://speakerdeck.com/gustavosuto/efeito-do-resfriamento-no-teor-de-oxigenio-na-soldagem-com-eletrodo-revestido-e7018-utilizando-experimentos-fatoriais-dissertacao-de-mestrado)), por volta de 2016, percebi que o ferramental estatístico que usamos para melhoria de processos na indústria nos planejamentos experimentais na academia estavam ganhando importância no mercado e um nome novo: ciência de dados.
-Buscando entender mais como isso poderia impactar meu entorno, comecei a estudar programação com foco em ciência de dados e machine learning.
+Sou engenheiro metalúrgico com experiência na indústria e atualmente trabalho na área financeira, especificamente em uma equipe de data science. No meio do meu mestrado (links para [dissertação] (https://tese.usp.br/tese/disponiveis/3/3133/tde-24092018-111903/en.php) / [apresentação] (https: / / speakerdeck .com / gustavosuto / cooling-effect-on-the-oxigênio-content-in-sold-with-revestido-eletrode-e7018-using-factorial-experts-dissertation-master-dissertation)), por volta de 2016, percebi que o as ferramentas estatísticas que utilizamos para melhorar processos na indústria ou na academia foram ganhando importância no mercado e um novo nome: data science.
+Buscando entender mais como isso poderia impactar meu entorno, comecei a estudar programação com foco em ciência de dados e aprendizado de máquina (Python \ o /)
 
-Esse repositório, contém materiais do que eu tenho aprendido e projetos que estão em andamento com meus grandes amigos. 😄
+Este repositório contém materiais do que aprendi e projetos com meus grandes amigos. 😄
 
-Se tiver qualquer dúvida ou sugestão, por favor, entre em [contato](https://www.linkedin.com/in/gustavosuto/). 📫
+Se você tiver dúvidas ou sugestões, entre em contato com [contato] (https://www.linkedin.com/in/gustavosuto/). 📫
 
------------------------
+---
+
+[ENGLISH VERSION]
+
+Hi, I'm Gustavo 👋
+
+I am a metallurgical engineer with experience in the industry and nowadays I works in the financial industry, specifically in a data science team. In the middle of my master's degree (links to [dissertation] (https://tese.usp.br/tese/disponiveis/3/3133/tde-24092018-111903/en.php) / [presentation] (https: // speakerdeck .com / gustavosuto / cooling-effect-on-the-oxygen-content-in-welding-with-coated-electrode-e7018-using-factorial-experiments-master-dissertation)), around 2016, I realized that the statistical tools we use to improve processes in the industry or at the academy were gaining importance in the market and a new name: data science.
+Seeking to understand more how it could impact my surroundings, I started studying programming with a focus on data science and machine learning (Python \o/)
+
+This repository contains materials from what I have learned and projects with my great friends. 😄
+
+If you have any questions or suggestions, please contact [contact] (https://www.linkedin.com/in/gustavosuto/).
+
+---
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosuto/)](https://www.linkedin.com/in/gustavosuto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guyrux@gmail.com)](mailto:guyrux@gmail.com)
 
