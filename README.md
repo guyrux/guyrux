@@ -7,14 +7,12 @@ This repository contains materials from what I have learned and projects with my
 
 If you have any questions or suggestions, please contact [contact](https://www.linkedin.com/in/gustavosuto/).
 
----
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavosuto/)](https://www.linkedin.com/in/gustavosuto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guyrux@gmail.com)](mailto:guyrux@gmail.com)
 
 ---
 
-🇧🇷 *[VERSÃO EM PORTUGUÊS-BR]*
+*[VERSÃO EM PORTUGUÊS-BR]*
 
 ### Olá, sou o Gustavo 👋
 
