@@ -7,6 +7,10 @@ nav:
 
 theme:
   name: material
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - python
 
 plugins:
   - search
