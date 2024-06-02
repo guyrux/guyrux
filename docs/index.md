@@ -1,3 +1,3 @@
 # Gustavo Suto
 
-Teste
+Teste com pre-commit.

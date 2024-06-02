@@ -10,7 +10,7 @@ repos:
 - repo: local
   hooks:
     - id: publish-gh
-      entry: bash -c "cd suto && mkdocs gh-deploy --config-file ../mkdocs.yml --remote-branch main"
+      entry: bash -c "cd suto.github.io && mkdocs gh-deploy --config-file ../mkdocs.yml --remote-branch main && cd .. && rm -rf ./site"
       language: system
       types: [python]
       pass_filenames: false
