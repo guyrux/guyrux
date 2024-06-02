@@ -1,0 +1,14 @@
+site_name: Gustavo Suto
+
+nav:
+  - Home: index.md
+  - About: pages/01-cv.md
+  - Projects: pages/02-projects.md
+
+theme:
+  name: material
+
+plugins:
+  - search
+  - mermaid2
+  - mkdocstrings
