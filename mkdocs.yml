@@ -1,0 +1,43 @@
+site_name: Gustavo Suto
+site_url: https://mydomain.org/mysite
+repo_url: https://github.com/guyrux/guyrux
+repo_name: guyrux
+
+nav:
+  - Home: index.md
+  - About: pages/01-cv.md
+  - Projects: pages/02-projects.md
+  - Blog
+
+theme:
+  favicon: images/notebook.svg
+  logo: images/notebook.svg
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+  palette:
+    - scheme: default
+      primary: black
+      accent: blue grey
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    - scheme: slate
+      primary: black
+      accent: blue grey
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - python
+
+plugins:
+  - search
+  - mermaid2
+  - mkdocstrings

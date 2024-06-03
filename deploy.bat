@@ -1,0 +1,1 @@
+cd suto.github.io && mkdocs gh-deploy --config-file ../mkdocs.yml --remote-branch main && cd .. && rm -rf ./site
