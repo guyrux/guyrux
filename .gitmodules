@@ -1,0 +1,4 @@
+[submodule "suto.github.io"]
+	path = suto.github.io
+	url = git@github.com:guyrux/suto.github.io.git
+	branch = main
